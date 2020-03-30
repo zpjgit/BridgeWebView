@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BridgeWebView.iml" filepath="$PROJECT_DIR$/BridgeWebView.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgewebviewdemo/bridgewebviewdemo.iml" filepath="$PROJECT_DIR$/bridgewebviewdemo/bridgewebviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgewebviewdemo/bridgewebviewdemo.iml" filepath="$PROJECT_DIR$/bridgewebviewdemo/bridgewebviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgewebviewlibrary/bridgewebviewlibrary.iml" filepath="$PROJECT_DIR$/bridgewebviewlibrary/bridgewebviewlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgewebviewlibrary/bridgewebviewlibrary.iml" filepath="$PROJECT_DIR$/bridgewebviewlibrary/bridgewebviewlibrary.iml" />
     </modules>
   </component>
